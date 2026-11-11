@@ -46,7 +46,6 @@ El proceso empieza cuando una persona se identifica con su cédula, firma el con
 - Si un tamizaje sale reactivo, no es fácil identificar con rapidez todas las unidades que salieron de esa donación para descartarlas.
 - La compatibilidad entre el tipo de sangre del donante y el del receptor se verifica a mano, con riesgo de error, y la trazabilidad completa (donante → unidad → movimientos → paciente) no queda bien documentada.
 
-> **Nota:** el modelo es de nivel académico. Los criterios de aptitud, los umbrales y los marcadores de tamizaje son referenciales y deben verificarse con la norma vigente del MSP antes de cualquier uso real.
 
 ## 3. Objetivos
 
