@@ -13,7 +13,7 @@
 | Unidad | 1 |
 | Resultado de aprendizaje | Modela bases de datos de problemas reales, bajo los principios de solidaridad, transparencia, responsabilidad y honestidad. |
 | Docente | Edwin René Guamán Quinche |
-| Fecha | 11-11-2026 |
+| Fecha | 10-11-2026 |
 | Nombres y apellidos del estudiante | Darwin Javier Campoverde Navas|
 
 ## Contenido del repositorio
