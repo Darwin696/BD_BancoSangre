@@ -1,0 +1,4 @@
+﻿id_solicitud,cedula_paciente,id_establecimiento,fecha_solicitud,componente,cantidad_unidades,urgencia,diagnostico,estado,medico_solicitante
+1,1101000002,1,2026-09-20,CGR,1,URGENTE,Hemorragia digestiva,ATENDIDA,Dr. Andres Paredes
+2,1101000003,2,2026-11-05,CGR,2,RUTINA,Cirugia programada,PENDIENTE,Dra. Sofia Barba
+3,1101000001,1,2026-11-07,CGR,1,URGENTE,Anemia severa,PENDIENTE,Dr. Andres Paredes

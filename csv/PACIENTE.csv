@@ -1,0 +1,5 @@
+﻿cedula_paciente,id_tipo,nombres,apellidos,fecha_nacimiento,historia_clinica,diagnostico
+1101000001,1,Rosa Maria,Gonzalez Mora,1960-02-10,HC-5001,Anemia severa
+1101000002,3,Pedro Pablo,Cabrera Sanchez,1975-08-21,HC-5002,Hemorragia digestiva
+1101000003,5,Mariana,Quezada Lopez,1988-06-17,HC-5003,Cirugia programada
+1101000004,7,Segundo Luis,Poma Castro,1950-12-02,HC-5004,Anemia cronica

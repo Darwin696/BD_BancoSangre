@@ -1,0 +1,9 @@
+﻿cedula,nombres,apellidos,fecha_nacimiento,sexo,telefono,canton_residencia,ocupacion,fecha_ultima_donacion,id_tipo
+1100000001,Juan Carlos,Armijos Leon,1998-03-14,M,0990000001,Loja,Estudiante,2026-10-20,1
+1100000002,Luisa Fernanda,Castillo Pardo,1995-07-02,F,0990000002,Loja,Docente,2026-09-12,3
+1100000003,Diego Paul,Jimenez Torres,1990-11-23,M,0990000003,Catamayo,Comerciante,2026-10-05,2
+1100000004,Marco Antonio,Vega Salinas,1988-01-30,M,0990000004,Loja,Ingeniero,2026-10-27,5
+1100000005,Ana Belen,Ruiz Cueva,2000-05-19,F,0990000005,Loja,Estudiante,,6
+1100000006,Karla Dayana,Sarango Pineda,1999-09-08,F,0990000006,Saraguro,Estudiante,,8
+1100000007,Jose Luis,Tapia Merino,1993-12-11,M,0990000007,Loja,Contador,2026-11-03,4
+1100000008,Gabriela Alexandra,Ochoa Rivera,1997-04-25,F,0990000008,Loja,Enfermera,,1

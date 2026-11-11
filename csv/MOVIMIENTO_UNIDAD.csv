@@ -1,0 +1,11 @@
+﻿id_movimiento,codigo_unidad,fecha_hora,tipo_movimiento,ubicacion_origen,ubicacion_destino,responsable,observacion
+1,UN-2026-003,2026-09-12 10:30:00,INGRESO,Sala de donacion,Cuarentena,Carlos Andrade,
+2,UN-2026-003,2026-09-14 08:00:00,ALMACENAMIENTO,Cuarentena,Refrigerador 1,Carlos Andrade,Tamizaje no reactivo
+3,UN-2026-003,2026-09-20 15:10:00,DESPACHO,Refrigerador 1,Hospital General Isidro Ayora,Carlos Andrade,Solicitud 1
+4,UN-2026-003,2026-09-20 17:00:00,TRANSFUSION,Hospital General Isidro Ayora,Paciente,Dr. Andres Paredes,
+5,UN-2026-005,2026-10-05 11:00:00,INGRESO,Sala de donacion,Cuarentena,Carlos Andrade,
+6,UN-2026-005,2026-10-08 09:00:00,DESCARTE,Cuarentena,,Maria Elena Ortiz,Chagas reactivo
+7,UN-2026-007,2026-10-20 09:30:00,INGRESO,Sala de donacion,Cuarentena,Carlos Andrade,
+8,UN-2026-007,2026-10-22 08:00:00,ALMACENAMIENTO,Cuarentena,Refrigerador 1,Carlos Andrade,Tamizaje no reactivo
+9,UN-2026-009,2026-10-27 12:00:00,INGRESO,Sala de donacion,Cuarentena,Patricia Jaramillo,
+10,UN-2026-009,2026-10-29 08:00:00,ALMACENAMIENTO,Cuarentena,Refrigerador 2,Patricia Jaramillo,Tamizaje no reactivo

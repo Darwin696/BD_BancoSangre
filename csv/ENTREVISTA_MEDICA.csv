@@ -1,0 +1,9 @@
+﻿id_entrevista,id_examen,id_personal,fecha,observaciones,decision,motivo_diferimiento,fecha_fin_diferimiento
+1,1,1,2026-06-15,Sin hallazgos,APTO,,
+2,2,1,2026-09-12,Sin hallazgos,APTO,,
+3,3,1,2026-10-05,Sin hallazgos,APTO,,
+4,4,1,2026-10-20,Sin hallazgos,APTO,,
+5,5,3,2026-10-27,Sin hallazgos,APTO,,
+6,6,3,2026-11-03,Sin hallazgos,APTO,,
+7,7,1,2026-11-04,Hemoglobina por debajo del minimo,DIFERIDO,Hemoglobina baja,2027-02-04
+8,8,1,2026-11-06,Apto; donacion pendiente de agendar,APTO,,
